@@ -40,3 +40,4 @@ A List of Awesome C++ Videos
 - Unlocking Modern CPU Power - Next-Gen C++ Optimization Techniques - Fedor G Pikus - C++Now 2024 <br/>
   https://www.youtube.com/watch?v=wGSSUSeaLgA
   
+## Uncategorized
